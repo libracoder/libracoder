@@ -2,7 +2,8 @@
 - 👀 I’m a cloud engineer with over 6 years of experience in infrastructure, SRE and devops
 - 🌱 I’m run a cloud mentorship school @ https://fulcrumsix.com
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on libracoder@gmail.com
+- 🎖️ I am a 10x Certified Cloud Engineer 
 
 <!---
 pokwu/pokwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
