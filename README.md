@@ -5,6 +5,12 @@
 - 📫 You can reach me on libracoder@gmail.com
 - 🎖️ I am a 10x Certified Cloud Engineer looking to collaborate on opensource terraform projects
 
+Technologies
+
+https://img.shields.io/badge/-Docker-blue
+
+
+
 <!---
 pokwu/pokwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
