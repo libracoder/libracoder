@@ -3,7 +3,7 @@
 - 🌱 I’m run a cloud mentorship school @ https://fulcrumsix.com
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on libracoder@gmail.com
-- 🎖️ I am a 10x Certified Cloud Engineer 
+- 🎖️ I am a 10x Certified Cloud Engineer looking to collaborate on opensource terraform projects
 
 <!---
 pokwu/pokwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
