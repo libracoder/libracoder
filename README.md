@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Precious Okwu, a NIgerian cloud engineer
+- 👋 Hi, I’m Precious Okwu
 - 👀 I’m a cloud engineer with over 6 years of experience in infrastructure, SRE and devops
 - 🌱 I’m run a cloud mentorship school @ https://fulcrumsix.com
 - 💞️ I’m looking to collaborate on ...
