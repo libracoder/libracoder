@@ -11,7 +11,7 @@ Technologies
 
 
 
-![Docker](https://img.shields.io/badge/-Docker-blue?style=plastic&logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-white?style=plastic&logo=docker)
 
 
 
