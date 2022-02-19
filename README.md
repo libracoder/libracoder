@@ -3,7 +3,7 @@ Bio
 - 👋 Hi, I’m Precious Okwu
 - 👀 I’m a cloud engineer with over 6 years of experience in infrastructure, SRE and devops
 - 🌱 I’m run a cloud mentorship school @ https://fulcrumsix.com
-- 💞️ I’m looking to collaborate on OPENSOURCE PROJECTS
+- 💞️ I’m looking to collaborate on opensource Temporal, ArgoCD and terraform projects
 - 📫 You can reach me on libracoder@gmail.com
 - 🎖️ I am a 10x Certified Cloud Engineer looking to collaborate on opensource terraform projects
 
