@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Precious
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Abimbola%20Ayodeji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/libracoder/)](https://www.linkedin.com/in/libracoder/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Precious%20Okwu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/libracoder/)](https://www.linkedin.com/in/libracoder/)
 
 <div>
   <p>Stats: </p>
@@ -12,5 +12,5 @@
 <div>
   <p>My profile overview: </p>
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dejibimbolaAyo&layout=compact&theme=ayu-mirage)](https://github.com/libracoder/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=libracoder&layout=compact&theme=ayu-mirage)](https://github.com/libracoder/github-readme-stats)
 </div>
