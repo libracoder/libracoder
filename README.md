@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Precious
 
-## I am a cloud engineer 
+#### I am a 10X certified cloud architect and distributed systems engineer
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Precious%20Okwu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/libracoder/)](https://www.linkedin.com/in/libracoder/)
 
