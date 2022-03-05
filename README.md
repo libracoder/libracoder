@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Precious
 
-#### I am a 10X certified cloud architect and distributed systems engineer... 
+#### I am a 10X certified cloud architect and distributed systems engineer, an AI enthusiast 
 
 
 .
