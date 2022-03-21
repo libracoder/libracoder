@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Precious Okwu 🙂.
 
-#### I am a 10x certified cloud architect and distributed systems engineer, an AI enthusiast and avid reader.
+#### I am a 10x certified cloud engineer and distributed systems engineer, an AI enthusiast and avid reader.
 
 
 .
