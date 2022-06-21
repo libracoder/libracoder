@@ -10,7 +10,7 @@
 
 ### Stats
 <br>
-<p align="center">
+<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisuzor&theme=ayu-mirage" alt="" width="400">
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=libracoder&show_icons=true&theme=ayu-mirage" alt="" width="450"/>
